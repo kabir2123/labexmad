@@ -1,0 +1,31 @@
+com.example.myapplication-fragment-1.3.6-0 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/070a9fb82295fa5296f06e07c66c0cc0/transformed/fragment-1.3.6/res
+com.example.myapplication-lifecycle-viewmodel-2.5.1-1 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/17e638ac85fe18132742c4a99f7cbd67/transformed/lifecycle-viewmodel-2.5.1/res
+com.example.myapplication-jetified-appcompat-resources-1.6.1-2 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/1d27601fc6444e701202261d0aa70f60/transformed/jetified-appcompat-resources-1.6.1/res
+com.example.myapplication-coordinatorlayout-1.1.0-3 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3d79240ed53e1cadbe3ac7c81c80cf07/transformed/coordinatorlayout-1.1.0/res
+com.example.myapplication-jetified-core-ktx-1.9.0-4 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/579dc24a3a75f05b09016f80c5c9bf70/transformed/jetified-core-ktx-1.9.0/res
+com.example.myapplication-transition-1.2.0-5 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/59892080ac047704c70ea905bfeb2a7b/transformed/transition-1.2.0/res
+com.example.myapplication-jetified-annotation-experimental-1.3.0-6 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5a3d7c0f651b86cab2b479844706407e/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.myapplication-lifecycle-livedata-core-2.5.1-7 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5f0e5f51ebe0fe30b76ea6868d31811e/transformed/lifecycle-livedata-core-2.5.1/res
+com.example.myapplication-jetified-savedstate-1.2.0-8 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/62fce71569a72f7e65eb0eeb7c7074c3/transformed/jetified-savedstate-1.2.0/res
+com.example.myapplication-jetified-viewpager2-1.0.0-9 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/63007785a37901219934fdad50c5de0e/transformed/jetified-viewpager2-1.0.0/res
+com.example.myapplication-recyclerview-1.1.0-10 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/7f52d0866ffd230f0ddfa0c253ebec04/transformed/recyclerview-1.1.0/res
+com.example.myapplication-jetified-activity-1.6.0-11 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/970af989b5fd23ad5c235ed94e5b7706/transformed/jetified-activity-1.6.0/res
+com.example.myapplication-cardview-1.0.0-12 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/a5344197df99183e1912374fb922291c/transformed/cardview-1.0.0/res
+com.example.myapplication-drawerlayout-1.1.1-13 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/af737dd1b07b46f72a3f30c086d4e482/transformed/drawerlayout-1.1.1/res
+com.example.myapplication-core-1.9.0-14 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/res
+com.example.myapplication-jetified-emoji2-1.2.0-15 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/res
+com.example.myapplication-lifecycle-runtime-2.5.1-16 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cb08f8895e4d94fcebff50d92a0fc691/transformed/lifecycle-runtime-2.5.1/res
+com.example.myapplication-jetified-startup-runtime-1.1.1-17 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/res
+com.example.myapplication-jetified-emoji2-views-helper-1.2.0-18 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d2ca161b7d5244d54abbfbafd1f2953b/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.example.myapplication-constraintlayout-2.1.4-19 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7309c1ac5278351bd03649f27c0f5e4/transformed/constraintlayout-2.1.4/res
+com.example.myapplication-appcompat-1.6.1-20 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7521f5749408ce1888060f746428074/transformed/appcompat-1.6.1/res
+com.example.myapplication-jetified-lifecycle-viewmodel-savedstate-2.5.1-21 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d9d40ded40c3e1a75dc69ff1c2d1ac49/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
+com.example.myapplication-jetified-lifecycle-process-2.4.1-22 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/res
+com.example.myapplication-material-1.9.0-23 /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/f45aba25c85265fa677dafe0e15fff07/transformed/material-1.9.0/res
+com.example.myapplication-pngs-24 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/build/generated/res/pngs/debug
+com.example.myapplication-resValues-25 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/build/generated/res/resValues/debug
+com.example.myapplication-packageDebugResources-26 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.myapplication-packageDebugResources-27 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.myapplication-merged_res-28 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/build/intermediates/merged_res/debug
+com.example.myapplication-main-29 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/res
+com.example.myapplication-debug-30 /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/src/debug/res

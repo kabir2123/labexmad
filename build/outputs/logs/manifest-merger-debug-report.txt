@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/f45aba25c85265fa677dafe0e15fff07/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7309c1ac5278351bd03649f27c0f5e4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/1d27601fc6444e701202261d0aa70f60/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7521f5749408ce1888060f746428074/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/63007785a37901219934fdad50c5de0e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/070a9fb82295fa5296f06e07c66c0cc0/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/970af989b5fd23ad5c235ed94e5b7706/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d2ca161b7d5244d54abbfbafd1f2953b/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/af737dd1b07b46f72a3f30c086d4e482/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3d79240ed53e1cadbe3ac7c81c80cf07/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b58514ba912b0f61ce143045722f7396/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/59892080ac047704c70ea905bfeb2a7b/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/38fc3d8d53f22c894a7d61d4383a7ae0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/0ddca510ddbd3d49e4553552fa4b9b02/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/80b270d40eaccb255cde3fafb61cb2dc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/954af2429544237a98de2f22d54d83e8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/17e638ac85fe18132742c4a99f7cbd67/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d9d40ded40c3e1a75dc69ff1c2d1ac49/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/579dc24a3a75f05b09016f80c5c9bf70/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/0971db8dd97671331713398296dfc055/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/7f52d0866ffd230f0ddfa0c253ebec04/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/08655afe7e6c27fae0a582194c7ca26f/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/c05770d0fc784dffdc3570a003cf7312/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cb08f8895e4d94fcebff50d92a0fc691/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/62fce71569a72f7e65eb0eeb7c7074c3/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/a5344197df99183e1912374fb922291c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cf8808c0cdd2dc534416a141a2e8e0a7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/9fa0464615b0c3c3123bc5a2f66f960b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3a317976dc986adaced903f0b1231ecd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5f0e5f51ebe0fe30b76ea6868d31811e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/6d7f3964fca2ce6f0a4daefb7fb7dee9/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/4f04e1d0f10107997dbd0ce94b44ff9c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/25cdbfaf424ff0078812c1480d4f01c6/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/6606aa5365b0c7986e0fcbee404e8e5d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e7ef811ed8e660b743c560ebce5914a7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5a3d7c0f651b86cab2b479844706407e/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:6:5-27:19
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:6:5-27:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/f45aba25c85265fa677dafe0e15fff07/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/f45aba25c85265fa677dafe0e15fff07/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7309c1ac5278351bd03649f27c0f5e4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7309c1ac5278351bd03649f27c0f5e4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/9fa0464615b0c3c3123bc5a2f66f960b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/9fa0464615b0c3c3123bc5a2f66f960b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:14:9-51
+	android:dataExtractionRules
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:8:9-65
+activity#com.example.myapplication.MainActivity
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:21:27-74
+activity#com.example.myapplication.SecondActivity
+ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml:25:13-43
+uses-sdk
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/f45aba25c85265fa677dafe0e15fff07/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/f45aba25c85265fa677dafe0e15fff07/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7309c1ac5278351bd03649f27c0f5e4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7309c1ac5278351bd03649f27c0f5e4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/1d27601fc6444e701202261d0aa70f60/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/1d27601fc6444e701202261d0aa70f60/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7521f5749408ce1888060f746428074/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d7521f5749408ce1888060f746428074/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/63007785a37901219934fdad50c5de0e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/63007785a37901219934fdad50c5de0e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/070a9fb82295fa5296f06e07c66c0cc0/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/070a9fb82295fa5296f06e07c66c0cc0/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/970af989b5fd23ad5c235ed94e5b7706/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/970af989b5fd23ad5c235ed94e5b7706/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d2ca161b7d5244d54abbfbafd1f2953b/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d2ca161b7d5244d54abbfbafd1f2953b/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/af737dd1b07b46f72a3f30c086d4e482/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/af737dd1b07b46f72a3f30c086d4e482/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3d79240ed53e1cadbe3ac7c81c80cf07/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3d79240ed53e1cadbe3ac7c81c80cf07/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b58514ba912b0f61ce143045722f7396/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b58514ba912b0f61ce143045722f7396/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/59892080ac047704c70ea905bfeb2a7b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/59892080ac047704c70ea905bfeb2a7b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/38fc3d8d53f22c894a7d61d4383a7ae0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/38fc3d8d53f22c894a7d61d4383a7ae0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/0ddca510ddbd3d49e4553552fa4b9b02/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/0ddca510ddbd3d49e4553552fa4b9b02/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/80b270d40eaccb255cde3fafb61cb2dc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/80b270d40eaccb255cde3fafb61cb2dc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/954af2429544237a98de2f22d54d83e8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/954af2429544237a98de2f22d54d83e8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/17e638ac85fe18132742c4a99f7cbd67/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/17e638ac85fe18132742c4a99f7cbd67/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d9d40ded40c3e1a75dc69ff1c2d1ac49/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d9d40ded40c3e1a75dc69ff1c2d1ac49/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/579dc24a3a75f05b09016f80c5c9bf70/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/579dc24a3a75f05b09016f80c5c9bf70/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/0971db8dd97671331713398296dfc055/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/0971db8dd97671331713398296dfc055/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/7f52d0866ffd230f0ddfa0c253ebec04/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/7f52d0866ffd230f0ddfa0c253ebec04/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/08655afe7e6c27fae0a582194c7ca26f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/08655afe7e6c27fae0a582194c7ca26f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/c05770d0fc784dffdc3570a003cf7312/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/c05770d0fc784dffdc3570a003cf7312/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cb08f8895e4d94fcebff50d92a0fc691/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cb08f8895e4d94fcebff50d92a0fc691/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/62fce71569a72f7e65eb0eeb7c7074c3/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/62fce71569a72f7e65eb0eeb7c7074c3/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/a5344197df99183e1912374fb922291c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/a5344197df99183e1912374fb922291c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cf8808c0cdd2dc534416a141a2e8e0a7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/cf8808c0cdd2dc534416a141a2e8e0a7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/9fa0464615b0c3c3123bc5a2f66f960b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/9fa0464615b0c3c3123bc5a2f66f960b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3a317976dc986adaced903f0b1231ecd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/3a317976dc986adaced903f0b1231ecd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5f0e5f51ebe0fe30b76ea6868d31811e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5f0e5f51ebe0fe30b76ea6868d31811e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/6d7f3964fca2ce6f0a4daefb7fb7dee9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/6d7f3964fca2ce6f0a4daefb7fb7dee9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/4f04e1d0f10107997dbd0ce94b44ff9c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/4f04e1d0f10107997dbd0ce94b44ff9c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/25cdbfaf424ff0078812c1480d4f01c6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/25cdbfaf424ff0078812c1480d4f01c6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/6606aa5365b0c7986e0fcbee404e8e5d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/6606aa5365b0c7986e0fcbee404e8e5d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e7ef811ed8e660b743c560ebce5914a7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e7ef811ed8e660b743c560ebce5914a7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5a3d7c0f651b86cab2b479844706407e/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/5a3d7c0f651b86cab2b479844706407e/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kabirpanda/Downloads/Sem-6-Labs-main 2/Mobile App Design/Lab 6/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/d241f9835e882ea1b8613a03422233a7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/bfb15ab6fd1793669e378f4db443685a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/b3329962f4aa65c16b5c26083ff650ae/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/kabirpanda/.gradle/caches/9.0-milestone-1/transforms/e046b69d08c2dd7d0d68a2f9f917f71b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

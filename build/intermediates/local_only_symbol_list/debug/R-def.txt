@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_call
+drawable ic_home
+drawable ic_info
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id content_display
+id image_display
+id main
+id menu_about_us
+id menu_contact_us
+id menu_homepage
+id menu_membership
+id menu_trainers
+id menu_workout_plans
+id textView
+id toolbar
+id tv_title
+layout activity_main
+layout activity_second
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
